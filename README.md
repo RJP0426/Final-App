@@ -1,3 +1,3 @@
 # Final-App
-## RJP Studio's
+## RJP's Application
 App created by: Riley James Pitney
