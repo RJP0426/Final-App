@@ -1,3 +1,3 @@
 # Final-App
-## RJP's Application
+(center) ## RJP's Application 
 App created by: Riley James Pitney
