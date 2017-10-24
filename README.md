@@ -2,6 +2,7 @@
 ## <center> A Riley James Pitney Application <center/>
 ### <center> Purpose <center/>
 <center> DASHBOARD is a universal app that will help make our everyday car troubles and worries a thing of the past<center/>
+
 DASHBOARD will:
 <ul>
   <li> Keep track of how much gas you have</li>
@@ -11,3 +12,6 @@ DASHBOARD will:
 
 <center>**Please check out my GitHub in the description below to see my product**
 **!Thank you so much!** <center/>
+
+<!-- page.my_string is jekyll -->
+{{ page.my_string | 6 }}
