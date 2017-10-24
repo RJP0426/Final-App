@@ -9,4 +9,4 @@ DASHBOARD will:
   <li> Be able to save how much gas your car can hold and how much you used during your journey</li>
 </ul>
 
-**strong** Please check out my GitHub in the description below to see my product
+**Please check out my GitHub in the description below to see my product**
