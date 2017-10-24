@@ -1,4 +1,4 @@
-{DASHBOARD}
+# DASHBOARD
 ## <center> A Riley James Pitney Application <center/>
 ### <center> Purpose <center/>
 <center> DASHBOARD is a universal app that will help make our everyday car troubles and worries a thing of the past<center/>
