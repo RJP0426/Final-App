@@ -1,3 +1,3 @@
-# Final-App 
-## RJP's Application 
-App created by: Riley James Pitney
+# DASHBOARD
+## A Riley James Pitney Application
+---App created by: Riley James Pitney
