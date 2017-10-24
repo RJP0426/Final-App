@@ -8,3 +8,5 @@ DASHBOARD will:
   <li> Calculate your gas milage to and from your choosen destination</li>
   <li> Be able to save how much gas your car can hold and how much you used during your journey</li>
 </ul>
+
+<b>Please check out my GitHub in the description below to see my product<b/>
