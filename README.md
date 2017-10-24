@@ -1,3 +1,7 @@
 # DASHBOARD
 ## <center> A Riley James Pitney Application <center/>
-App created by: Riley James Pitney
+### <center>{% highlight ruby %}
+  def foo
+    puts 'Purpose'
+  end
+{% endhighlight %}<center/>
