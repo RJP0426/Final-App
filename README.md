@@ -13,5 +13,3 @@ DASHBOARD will:
 <center>**Please check out my GitHub in the description below to see my product**
 **!Thank you so much!** <center/>
 
-<!-- page.my_string is jekyll -->
-{{ page.my_string | 6 }}
