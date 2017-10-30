@@ -1,3 +1,1 @@
 theme: jekyll-theme-merlot
-<!-- page.my_string is jekyll -->
-{{ page.my_string | 8 }}
