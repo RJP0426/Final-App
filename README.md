@@ -12,4 +12,4 @@ DASHBOARD will:
 
 <center>**Please check out my GitHub in the description below to see my product**
 **!Thank you so much!** <center/>
-timezone: North America
+{{ site.time }}
